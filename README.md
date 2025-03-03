@@ -1,5 +1,5 @@
 ## About FileToByte
-FileToByte converts files to array of byte for using in C++ or C#
+FileToByte converts files to array of bytes to use in projects.
 
 Made for personal use. Can be used and edited.
 
